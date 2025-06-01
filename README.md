@@ -1,0 +1,1 @@
+## Data Analytics Project for Company Inventory Management
